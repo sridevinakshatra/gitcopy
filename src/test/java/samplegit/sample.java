@@ -11,6 +11,7 @@ public class sample {
 		System.out.println(c);
 		System.out.println("Sridevi");
 		System.out.println("Gowri");
+		System.out.println("Shankar");
 
 	}
 

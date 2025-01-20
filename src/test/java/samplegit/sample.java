@@ -10,6 +10,7 @@ public class sample {
 		int c = a+b;
 		System.out.println(c);
 		System.out.println("Sridevi");
+		System.out.println("Gowri");
 
 	}
 
